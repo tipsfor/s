@@ -291,15 +291,15 @@ header {
 }
 
 .special-card-mald {
-  background-image: url(../img/Maldives.png);
+  background-image: url(img/Maldives.png);
 }
 
 .special-card-crete {
-  background-image: url(../img/Crete.png);
+  background-image: url(img/Crete.png);
 }
 
 .special-card-luxe {
-  background-image: url(../img/luxe.jpg);
+  background-image: url(img/luxe.jpg);
 }
 
 .all-section-text {
@@ -341,22 +341,22 @@ header {
 }
 
 .exclusive {
-  background-image: url(../img/10.jpg);
+  background-image: url(img/10.jpg);
   background-repeat: no-repeat;
 }
 
 .rent {
-  background-image: url(../img/15.jpg);
+  background-image: url(img/15.jpg);
   background-repeat: no-repeat;
 }
 
 .health {
-  background-image: url(../img/12.jpg);
+  background-image: url(img/12.jpg);
   background-repeat: no-repeat;
 }
 
 .parking {
-  background-image: url(../img/carlo-d-agnolo-aFxSh_l4fbY-unsplash.jpg);
+  background-image: url(img/carlo-d-agnolo-aFxSh_l4fbY-unsplash.jpg);
   background-repeat: no-repeat;
 }
 
@@ -391,49 +391,49 @@ header {
 
 .icon1 {
   display: block;
-  background-image: url(../img/bathtub.svg);
+  background-image: url(img/bathtub.svg);
   background-repeat: no-repeat;
 }
 
 .icon2 {
   display: block;
-  background-image: url(../img/hanger.svg);
+  background-image: url(img/hanger.svg);
   background-repeat: no-repeat;
 }
 
 .icon3 {
   display: block;
-  background-image: url(../img/heating.svg);
+  background-image: url(img/heating.svg);
   background-repeat: no-repeat;
 }
 
 .icon4 {
   display: block;
-  background-image: url(../img/hotel-key.svg);
+  background-image: url(img/hotel-key.svg);
   background-repeat: no-repeat;
 }
 
 .icon5 {
   display: block;
-  background-image: url(../img/parking.svg);
+  background-image: url(img/parking.svg);
   background-repeat: no-repeat;
 }
 
 .icon6 {
   display: block;
-  background-image: url(../img/reception.svg);
+  background-image: url(img/reception.svg);
   background-repeat: no-repeat;
 }
 
 .icon7 {
   display: block;
-  background-image: url(../img/security-box.svg);
+  background-image: url(img/security-box.svg);
   background-repeat: no-repeat;
 }
 
 .icon8 {
   display: block;
-  background-image: url(../img/swimming-pool.svg);
+  background-image: url(img/swimming-pool.svg);
   background-repeat: no-repeat;
 }
 
@@ -474,7 +474,7 @@ header {
 }
 
 .find {
-  background-image: url(../img/41.jpg);
+  background-image: url(img/41.jpg);
 }
 
 .section-placing-item:not(:nth-child(3n)) {
@@ -535,7 +535,7 @@ header {
   display: flex;
   padding: 40px;
   justify-content: center;
-  background-image: url(../img/41.jpg);
+  background-image: url(img/41.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -671,7 +671,7 @@ header {
   margin-left: auto;
   border-radius: 15px;
   overflow: hidden;
-  background-image: url(/img/footer-background.png);
+  background-image: url(img/footer-background.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -832,28 +832,28 @@ header {
 }
 
 .sova {
-  background-image: url(../img/tripadvisor.svg);
+  background-image: url(img/tripadvisor.svg);
 }
 
 .twitter {
-  background-image: url(../img/twitter.svg);
+  background-image: url(img/twitter.svg);
 }
 
 .facebook {
-  background-image: url(../img/facebook.svg);
+  background-image: url(img/facebook.svg);
 }
 
 .vkontakte {
-  background-image: url(../img/social.svg);
+  background-image: url(img/social.svg);
 }
 
 .instagram {
-  background-image: url(../img/instagram.svg);
+  background-image: url(img/instagram.svg);
 }
 
 .footer-sun-logo {
   position: absolute;
-  background-image: url(../img/SunLogo.svg);
+  background-image: url(img/SunLogo.svg);
   background-repeat: no-repeat;
   width: 254px;
   height: 254px;
